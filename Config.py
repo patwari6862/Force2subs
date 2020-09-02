@@ -9,15 +9,7 @@ class Config():
     API_HASH = os.environ.get("API_HASH", None)
   else:
     BOT_TOKEN = "1304775881:AAFKYu83vL28-K-Tw41RXqsfNMprADXkxYE"
-    DATABASE_URL = "  "addons": [
-    {
-      "plan": "eroku-postgresql",
-      "options": {
-        "version": "10"
-      }
-    }
-  ]
-}"
+    DATABASE_URL = " "
     APP_ID = "1272401"
     API_HASH = "69e2c225baf80705ff8d0baecc42f2b1"
 
