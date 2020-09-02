@@ -8,7 +8,7 @@ class Config():
     APP_ID = os.environ.get("APP_ID", 6)
     API_HASH = os.environ.get("API_HASH", None)
   else:
-    BOT_TOKEN = "1124037351:AAGLwwRlXidbWW3ieDJ5nhZNLua1YCpqytk"
+    BOT_TOKEN = "1304775881:AAFKYu83vL28-K-Tw41RXqsfNMprADXkxYE"
     DATABASE_URL = "  "addons": [
     {
       "plan": "eroku-postgresql",
@@ -18,8 +18,8 @@ class Config():
     }
   ]
 }"
-    APP_ID = "1758480"
-    API_HASH = "c683b2c4466931b8280911b2388a6041"
+    APP_ID = "1272401"
+    API_HASH = "69e2c225baf80705ff8d0baecc42f2b1"
 
 
 class Messages():
